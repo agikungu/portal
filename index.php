@@ -41,7 +41,7 @@
         <a class="nav-link" href="login.php">User</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link"  href="agentlogin.php">Agent</a>
+        <a class="nav-link"  href="agentlogin.php">Agent Smith</a>
       </li>
   
     </ul>
