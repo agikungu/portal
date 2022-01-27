@@ -109,7 +109,7 @@
       <div class="row mt-4">
         <div class="col text-center">
           <h3>
-         Oyaaaaa KAGGZ CUSTOMER PORTAL
+          KAGGZ CUSTOMER PORTAL
           </h3>
         </div>
       </div>
